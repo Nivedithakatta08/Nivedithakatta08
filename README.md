@@ -11,7 +11,7 @@ Building real-world AI systems — one project at a time.
 - **[Nanoparticle Toxicity Predictor](https://github.com/Nivedithakatta08/Nanoparticle-toxicity)** — ML model (RF/SVM/KNN) predicting toxicity from physicochemical properties · 87% accuracy
 - **[Discord Bot](https://github.com/Nivedithakatta08/discord-bot)** — Python-based bot with custom commands
 
----
+----
 
 ## 🛠 Tech Stack
 
