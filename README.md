@@ -28,7 +28,6 @@ Building real-world AI systems — one project at a time.
 
 - Deep learning & neural networks
 - Building more real-time CV applications
-- Research and anlaytical skills
 ---
 
 ## 📫 Reach Me
