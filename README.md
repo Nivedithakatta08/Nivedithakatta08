@@ -31,9 +31,6 @@ Python-based Discord bot with custom command handling.
 
 ## What I'm Working On
 
-**Bharatiya Antariksh Hackathon 2026 (ISRO · PS 10)**
-IR image colorization and enhancement for object interpretation. Leading my team through a domain none of us had prior experience in — figuring it out as we go.
-
 **Deep learning** — working through neural network fundamentals and building more real-time CV applications.
 
 ---
